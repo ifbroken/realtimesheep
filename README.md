@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realtimesheep (aka ItsPaperWorm)
+- 👋 Hi, I’m @ifbroken (aka ItsPaperWorm)
 - 👀 I’m interested in gamedev and OOP
 - 🌱 I’m currently learning how to make 3D games in C++
 - 💞️ I’m looking to collaborate on projects
